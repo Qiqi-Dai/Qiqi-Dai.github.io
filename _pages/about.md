@@ -21,18 +21,6 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
 
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 📜 Research Area
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Speaker recognition and verification; Speech separation </td>
-    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Face recognition; Face detection; Lip reading</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection</td>
-    <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp;&nbsp; Self-supervised speech processing </td>
-  </tr>
-</table>
-
 # 🏫 Education
 
 - *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
@@ -41,55 +29,26 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 # 📝 Publication
 
-**2022**
-
-- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15903.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **submit to TASLP**, 2022. 
-- [Speaker recognition with two-step multi-modal deep cleansing](https://arxiv.org/pdf/2210.15903.pdf), **Ruijie Tao**, Kong Aik Lee, Shi Zhan and Haizhou Li, **submit to ICASSP**, 2022. [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=Code+Stars)](https://github.com/TaoRuijie/AVCleanse)
-- Deep Cross-modal Retrieval between Space Image and Acoustic Speech, Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **submit to TMM**, 2022. 
-- [Self-supervised Speaker Recognition with Loss-gated Learning](https://arxiv.org/pdf/2110.03869.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li. **ICASSP**, 2022, [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=Code+Stars)](https://github.com/TaoRuijie/Loss-Gated-Learning)
-- [Selective Hearing through Lip-reading](https://arxiv.org/pdf/2106.07150.pdf), Zexu Pan, **Ruijie Tao**, Chenglin Xu, Haizhou Li, **TASLP**, 2022.
-- [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://arxiv.org/pdf/2110.07058.pdf), Kristen Grauman, Andrew Westbury, Eugene Byrne, ..., **Ruijie Tao**, ..., et al, **CVPR**, <font color="red">Oral</font>, 2022. [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Code+Stars)](https://github.com/facebookresearch/Ego4d)
-
-**2021**
-
-- [Is Someone Speaking? Exploring Long-term Temporal Features for Audio-visual Active Speaker Detection](https://arxiv.org/pdf/2107.06592.pdf), **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, **ACM Multimedia**, <font color="red">Oral</font>, 2021, [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/TalkNet_ASD)
-- [NUS-HLT Report for ActivityNet Challenge 2021 AVA (Speaker)](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2021/S3_NUS_Report_AVA_ActiveSpeaker_2021.pdf), **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, **CVPR Workshop Report**, 2021.
-- [Muse: Multi-modal target speaker extraction with visual cues](https://arxiv.org/pdf/2010.07775.pdf), Zexu Pan, **Ruijie Tao**, Chenglin Xu, and Haizhou Li, **ICASSP**, 2021. 
-- [HLT-NUS Submission for 2020 NIST Conversational Telephone Speech SRE](https://arxiv.org/pdf/2111.06671.pdf), Rohan Kumar Das, **Ruijie Tao** and Haizhou Li, **arxiv**, 2021. [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=Code+Stars)](https://github.com/TaoRuijie/ECAPATDNN)
-- [I4U System Description for NIST SRE'20 CTS Challenge](https://arxiv.org/pdf/2211.01091.pdf), Kong Aik Lee, Tomi Kinnunen, Daniele Colibro, ..., **Ruijie Tao**, ..., et al, **arxiv**, 2021.
+[J1] Q. Dai, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “DMRF-UNet: A two-stage deep learning scheme for GPR data inversion under heterogeneous soil conditions,” IEEE Transactions on Antennas and Propagation, vol. 70, no. 8, pp. 6313-6328, 2022.
+[J2] Q. Dai, Y. H. Lee, H.-H. Sun, J. Qian, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A deep learning-based GPR forward solver for predicting B-scans of subsurface objects,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022.
+[J3] H.-H. Sun, Y. H. Lee, Q. Dai, C. Li, G. Ow, M. L. M. Yusof, and A. C. Yucel, “Estimating parameters of the tree root in heterogeneous soil environments via mask-guided multi-polarimetric integration neural network,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, 2022.
+[J4] G. Shao, Y. Tang, L. Tang, Q. Dai, and Y.-X. Guo, “A novel passive magnetic localization wearable system for wireless capsule endoscopy,” IEEE Sensors Journal, vol. 19, no. 9, pp. 3462-3472, 2019.
+[J5] Q. Dai, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “3DInvNet: A deep learning scheme for 3D ground-penetrating radar data inversion,” minor revision, IEEE Transactions on Geoscience and Remote Sensing.
+[J6] Q. Dai, Y. H. Lee, X. Jia, G. Ow, M. L. M. Yusof, and A. C. Yucel, “Learning from noise: An unsupervised GPR image denoising scheme based on generative adversarial networks” to be submitted to IEEE Transactions on Geoscience and Remote Sensing.
+[C1] Q. Dai, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “S2M-Net: A deep learning-based scheme for GPR image translation from simulation to measurement via a conditional generative adversarial network,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Denver, Colorado, USA, 2022.
+[C2] J. Qian, Y. H. Lee, Q. Dai, K. Cheng, L. He, D. Lee, and A. C. Yucel, “Rapid health assessment of trees via deep learning-augmented radar,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Denver, Colorado, USA, 2022.
+[C3] Q. Dai, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A deep learning scheme for rapidly reconstructing 3D permittivity maps from GPR C-scans,” in Proc IEEE Int. Symp. Antennas Propagat., Singapore, 2021.
+[C4] Q. Dai, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A two-stage deep neural network for ground-penetrating radar data inversion under heterogeneous soil conditions,” in Proc CNC-USNC/URSI National Radio Sci. Meet, Singapore, 2021.
+[C5] Q. Dai, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A fast 2D GPR forward solver for convex objects based on a deep learning technique,” in Proc CNC-USNC/URSI National Radio Sci. Meet, Singapore, 2021.
+[C6] Q. Dai, B. Wen, G. Ow, M. L. M. Yusof, Y. H. Lee, and A. C. Yucel, “A deep learning-based methodology for rapidly detecting the defects inside tree trunks via GPR,” in Proc IEEE Int. Symp. Antennas Propagat., Montreal, Canada, 2020.
 
 **2020** 
 
 - [Audio-visual Speaker Recognition with a Cross-modal Discriminative Network](https://arxiv.org/abs/2008.03894), **Ruijie Tao**, Rohan Kumar Das and Haizhou Li, **INTERSPEECH**, 2020.
 - [HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation](http://www.apsipa.org/proceedings/2020/pdfs/0000605.pdf), Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, **APSIPA**, 2020. 
 
-# 💻 Open Source Code
-- *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
-- *Active Speaker Detection Framework* [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
-- *Self-supervised Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
-- *Audio-visual Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=AVCleanse)](https://github.com/TaoRuijie/AVCleanse)
-- *Ego4d Benchmark* [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d)
 
-# 👔 Internship and Visiting Experience
+# 🎖 Awards
 
-- *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
-- *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
-
-# 🎖 Others
-
-**Award**
-
-- PREMIA Best Student Paper Award, 2022
-- The 2nd place winner in NIST Speaker Recognition Evaluation (SRE), 2021
-- The 3rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
-- NUS Research Scholarship, 2019
-
-**Reviewer**
-
-- Reviewer of CVPR, SPL
-
-**Teaching**
-
-- EE3801 Data Engineering Principles, NUS undergraduate course
-- EE5132 Wireless and Sensor Networks, NUS graduate course
-
+- 2022-IEEE Antennas and Propagation Society (AP-S) Fellowship
+- 2018-Outstanding Graduate in Soochow University
