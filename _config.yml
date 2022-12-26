@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiqi Dai"
-description              : "PhD student at National University of Singapore"
+description              : "PhD student at Nanyang Technological University"
 repository               : "Qiqi-Dai.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiqi Dai"
   avatar           : "images/my_pic.jpg"
-  bio              : "[Curriculum Vitae]"
+  bio              :
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?user=sdXITx8AAAAJ&hl=en"
-  email            : "ruijie.tao@u.nus.edu"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=nzyi6hEAAAAJ&hl=en"
+  email            : "DAIQ0004@e.ntu.edu.sg"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tao-ruijie-38137516a"
+  linkedin         : "qiqi-dai-508675248"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://space.bilibili.com/194466325?spm_id_from=333.1007.0.0"
+  youtube          :
   wikipedia        :
 
 
