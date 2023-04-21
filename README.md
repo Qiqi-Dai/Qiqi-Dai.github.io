@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi 👋
 
 Personal Web: https://Qiqi-Dai.github.io/
 
