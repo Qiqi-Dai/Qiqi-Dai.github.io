@@ -22,10 +22,13 @@ I am a PhD student in Nanyang Technological University (NTU), supervised by Prof
 # 🏫 Education
 
 - *2019.08 - 2023.06*, Ph.D. in Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
-- *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineering, National University of Singapore (NUS), Singapore.
+- *2018.08 - 2019.06*, M.Sc. in Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
 - *2014.09 - 2018.06*, B.Eng. in Telecommunication Engineering, Soochow University, Suzhou, China.
 
 # 📝 Publication
+**2023**
+
+- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “3DInvNet: A deep learning scheme for 3D ground-penetrating radar data inversion,” IEEE Transactions on Geoscience and Remote Sensing, in press, 2023.
 
 **2022**
 - **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “DMRF-UNet: A two-stage deep learning scheme for GPR data inversion under heterogeneous soil conditions,” IEEE Transactions on Antennas and Propagation, vol. 70, no. 8, pp. 6313-6328, 2022.
