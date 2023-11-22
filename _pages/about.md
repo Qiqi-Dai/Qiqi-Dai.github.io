@@ -27,8 +27,8 @@ I am a PhD student in Nanyang Technological University (NTU), supervised by Prof
 
 # 📝 Publication
 **2023**
-
 - **Q. Dai**, Y. H. Lee, M. L. M. Yusof, D. Lee, and A. C. Yucel, “Learning from noise: An unsupervised GPR data denoising scheme based on generative adversarial networks,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Portland, OR, 2023.
+- **Q. Dai**, Y. H. Lee, J. Qian, M. L. M. Yusof, D. Lee, and A. C. Yucel, "A signal processing algorithms-assisted deep learning scheme for ground-penetrating radar imaging," in Proc CNC-USNC/URSI National Radio Sci. Meet., Portland, OR, 2023.
 - **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “3DInvNet: A deep learning scheme for 3D ground-penetrating radar data inversion,” IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023.
 
 **2022**
