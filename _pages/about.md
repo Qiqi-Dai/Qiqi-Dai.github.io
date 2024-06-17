@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research fellow at the Departmnet of Electrical & Computer Engineering (ECE) in National University of Singapore (NUS). Prior to that, I received the PhD degree from Nanyang Technological University (NTU) in 2023, Master's Degree from NUS in 2019, and Bachelor's Degree from Soochow University in 2018. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am a research fellow at the Departmnet of Electrical and Computer Engineering (ECE) in National University of Singapore (NUS). Prior to that, I received the PhD degree from Nanyang Technological University (NTU) in 2023, Master's Degree from NUS in 2019, and Bachelor's Degree from Soochow University in 2018. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🏫 Education
 
 - *2019.08 - 2023.06*, Ph.D. in Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
 - *2018.08 - 2019.06*, M.Sc. in Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
-- *2014.09 - 2018.06*, B.Eng. in Telecommunication Engineering, Soochow University, Suzhou, China.
+- *2014.09 - 2018.06*, B.Eng. in Communication Engineering, Soochow University, Suzhou, China.
 
 # 📝 Publication
 **2023**
