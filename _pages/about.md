@@ -26,6 +26,10 @@ I am a research fellow at the Departmnet of Electrical and Computer Engineering 
 - *2014.09 - 2018.06*, B.Eng. in Communication Engineering, Soochow University, Suzhou, China.
 
 # 📝 Publication
+**2024**
+- **Q. Dai**, Y. H. Lee, H.-H. Sun, J. Qian, M. L. M. Yusof, D. Lee, and A. C. Yucel, “Learning from Clutter: An Unsupervised Learning-Based Clutter Removal Scheme for GPR B-Scans,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
+- J. Qian, Y. H. Lee, K. Cheng, **Q. Dai**, M. L. M. Yusof, D. Lee, and A. C. Yucel, "A Deep Learning-Augmented Stand-Off Radar Scheme for Rapidly Detecting Tree Defects," IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-15, 2024.
+
 **2023**
 - **Q. Dai**, Y. H. Lee, M. L. M. Yusof, D. Lee, and A. C. Yucel, “Learning from noise: An unsupervised GPR data denoising scheme based on generative adversarial networks,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Portland, OR, 2023.
 - **Q. Dai**, Y. H. Lee, J. Qian, M. L. M. Yusof, D. Lee, and A. C. Yucel, "A signal processing algorithms-assisted deep learning scheme for ground-penetrating radar imaging," in Proc CNC-USNC/URSI National Radio Sci. Meet., Portland, OR, 2023.
