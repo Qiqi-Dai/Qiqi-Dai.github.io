@@ -27,7 +27,7 @@ I am a research fellow at the Departmnet of Electrical and Computer Engineering 
 
 # 📝 Publication
 **2024**
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, J. Qian, M. L. M. Yusof, D. Lee, and A. C. Yucel, “Learning from Clutter: An Unsupervised Learning-Based Clutter Removal Scheme for GPR B-Scans,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
+- **Q. Dai**, Y. H. Lee, H.-H. Sun, J. Qian, M. L. M. Yusof, D. Lee, and A. C. Yucel, “Learning from Clutter: An Unsupervised Learning-Based Clutter Removal Scheme for GPR B-Scans,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 19668-19681, 2024.
 - J. Qian, Y. H. Lee, K. Cheng, **Q. Dai**, M. L. M. Yusof, D. Lee, and A. C. Yucel, "A Deep Learning-Augmented Stand-Off Radar Scheme for Rapidly Detecting Tree Defects," IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-15, 2024.
 
 **2023**
