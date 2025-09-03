@@ -26,7 +26,7 @@ Since July 2023, I have been a research fellow at the Departmnet of Electrical a
 - *2014.09 - 2018.06*, B.Eng. in Communication Engineering, Soochow University, Suzhou, China.
 
 # 📝 Publication
-**2024**
+**2025**
 - **Q. Dai**, Y. Wang, C. Xu, D. Li, P. Pitchappa, T. C. Tan, R. Singh, and C. Lee, "High-Asymmetry Metasurface: A New Solution for Terahertz Resonance via Active Learning-Augmented Diffusion Model," Advanced Science, 2025.
 - X. Jia, M. Wang, **Q. Dai**, C. F. Wang, and A. C. Yucel, "Deep Learning-Based Partial Inductance Extraction of 3-D Interconnects," IEEE Journal on Multiscale and Multiphysics Computational Techniques, vol. 10, pp. 112-124, 2025.
 
