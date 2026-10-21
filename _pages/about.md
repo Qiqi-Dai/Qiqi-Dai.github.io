@@ -38,7 +38,7 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
     <div class="work-experience__details">
       <div class="work-experience__date"><time datetime="2023-07">2023.07</time> – <time datetime="2025-06">2025.06</time></div>
       <div class="work-experience__topics">
-        <p>Generative AI · Diffusion Models · Active Learning · Inverse Design · Scientific Machine Learning</p>
+        <p>Generative AI · Diffusion Models · Active Learning · Inverse Design · Scientific Machine Learning · Physics-Informed Generation</p>
       </div>
     </div>
   </section>
@@ -47,7 +47,7 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
     <div class="work-experience__details">
       <div class="work-experience__date"><time datetime="2019-08">2019.08</time> – <time datetime="2023-06">2023.06</time></div>
       <div class="work-experience__topics">
-        <p>Deep Learning · Radar Imaging · 2D/3D Image Reconstruction · Image Generation · Image Denoising · Contrastive Learning · Paired/Unpaired GANs</p>
+        <p>Deep Learning · Radar Imaging · 2D/3D Image Reconstruction · Image Generation · Image Denoising · Contrastive Learning · Paired/Unpaired GANs · Neural Surrogate Modeling</p>
       </div>
     </div>
   </section>
