@@ -410,3 +410,56 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* Work experience: dates followed by research topics. */
+.work-experience {
+  &__entry {
+    margin: 0 0 1.5em;
+  }
+
+  &__title {
+    margin: 0 0 0.5em;
+    font-size: 1em;
+    line-height: 1.55;
+  }
+
+  &__details {
+    display: grid;
+    grid-template-columns: max-content minmax(0, 1fr);
+    gap: 0.35em 1em;
+    align-items: start;
+  }
+
+  &__date {
+    padding-top: 0.1em;
+    color: $gray;
+    font-size: 0.9em;
+    white-space: nowrap;
+  }
+
+  &__topics {
+    padding-left: 1em;
+    border-left: 2px solid $border-color;
+    font-size: 0.95em;
+    line-height: 1.7;
+
+    p {
+      margin: 0;
+    }
+
+    p + p {
+      margin-top: 0.3em;
+    }
+  }
+
+  @media (max-width: 600px) {
+    &__details {
+      grid-template-columns: minmax(0, 1fr);
+    }
+
+    &__topics {
+      padding-left: 0;
+      border-left: 0;
+    }
+  }
+}

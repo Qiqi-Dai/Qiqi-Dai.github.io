@@ -23,17 +23,28 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
 
 # 💼 Work Experience
 
-**Research Scientist, Black Sesame Technologies (Singapore) Pte Ltd, Singapore**<br>
-*2025.07 - Present*
-
-- Research on LLM inference acceleration, including speculative decoding, MoE inference optimization, and software–hardware co-design.
-- Develop hardware-friendly deep learning solutions for autonomous driving perception, including model distillation and efficient feature sampling.
-
-**Postdoctoral Research Fellow, National University of Singapore (NUS), Singapore**<br>
-*2023.07 - 2025.06*
-
-- Conducted research on deep generative models for intelligent metasurface design
-- Developed an active learning-augmented diffusion model for metasurface generation from limited training data
+<div class="work-experience">
+  <section class="work-experience__entry" aria-labelledby="research-scientist-title">
+    <h3 class="work-experience__title" id="research-scientist-title">Research Scientist, Black Sesame Technologies (Singapore) Pte Ltd, Singapore</h3>
+    <div class="work-experience__details">
+      <div class="work-experience__date"><time datetime="2025-07">2025.07</time> – Present</div>
+      <div class="work-experience__topics">
+        <p>LLM inference acceleration · Speculative decoding · MoE optimization · Software–hardware co-design</p>
+        <p>Efficient autonomous driving perception · Model distillation · Hardware-friendly feature sampling</p>
+      </div>
+    </div>
+  </section>
+  <section class="work-experience__entry" aria-labelledby="postdoctoral-title">
+    <h3 class="work-experience__title" id="postdoctoral-title">Postdoctoral Research Fellow, National University of Singapore (NUS), Singapore</h3>
+    <div class="work-experience__details">
+      <div class="work-experience__date"><time datetime="2023-07">2023.07</time> – <time datetime="2025-06">2025.06</time></div>
+      <div class="work-experience__topics">
+        <p>Generative AI for intelligent metasurface design</p>
+        <p>Diffusion models · Physics-constrained active learning · Data-efficient generation</p>
+      </div>
+    </div>
+  </section>
+</div>
 
 # 🏫 Education
 
