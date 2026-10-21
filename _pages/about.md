@@ -21,7 +21,7 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
 
 <span class='anchor' id='work-experience'></span>
 
-# 💼 Work Experience
+# 💼 Experience
 
 <div class="work-experience">
   <section class="work-experience__entry" aria-labelledby="research-scientist-title">
@@ -29,8 +29,7 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
     <div class="work-experience__details">
       <div class="work-experience__date"><time datetime="2025-07">2025.07</time> – Present</div>
       <div class="work-experience__topics">
-        <p>LLM inference acceleration · Speculative decoding · MoE optimization · Software–hardware co-design</p>
-        <p>Efficient autonomous driving perception · Knowledge distillation · Hardware-friendly feature sampling</p>
+        <p>LLM Inference · Speculative Decoding · MoE Optimization · NPU Deployment · Hardware–Software Co-design</p>
       </div>
     </div>
   </section>
@@ -39,8 +38,16 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
     <div class="work-experience__details">
       <div class="work-experience__date"><time datetime="2023-07">2023.07</time> – <time datetime="2025-06">2025.06</time></div>
       <div class="work-experience__topics">
-        <p>Generative AI for intelligent metasurface design</p>
-        <p>Diffusion models · Physics-constrained active learning · Data-efficient generation</p>
+        <p>Generative AI · Diffusion Models · Active Learning · Inverse Design · Scientific Machine Learning</p>
+      </div>
+    </div>
+  </section>
+  <section class="work-experience__entry" aria-labelledby="phd-researcher-title">
+    <h3 class="work-experience__title" id="phd-researcher-title">PhD Researcher, Nanyang Technological University (NTU), Singapore</h3>
+    <div class="work-experience__details">
+      <div class="work-experience__date"><time datetime="2019-08">2019.08</time> – <time datetime="2023-06">2023.06</time></div>
+      <div class="work-experience__topics">
+        <p>Deep Learning · 2D/3D Image Reconstruction · Contrastive Learning · GANs · Physics-Based Simulation</p>
       </div>
     </div>
   </section>
