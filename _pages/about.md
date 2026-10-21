@@ -29,7 +29,7 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
 - Research on LLM inference acceleration, including speculative decoding, MoE inference optimization, and software–hardware co-design.
 - Develop hardware-friendly deep learning solutions for autonomous driving perception, including model distillation and efficient feature sampling.
 
-**Research Fellow, National University of Singapore (NUS), Singapore**<br>
+**Postdoctoral Research Fellow, National University of Singapore (NUS), Singapore**<br>
 *2023.07 - 2025.06*
 
 - Conducted research on deep generative models for intelligent metasurface design
