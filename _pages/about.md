@@ -47,7 +47,7 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
     <div class="work-experience__details">
       <div class="work-experience__date"><time datetime="2019-08">2019.08</time> – <time datetime="2023-06">2023.06</time></div>
       <div class="work-experience__topics">
-        <p>Deep Learning · 2D/3D Image Reconstruction · Contrastive Learning · GANs · Physics-Based Simulation</p>
+        <p>Deep Learning · Radar Imaging · 2D/3D Image Reconstruction · Image Generation · Image Denoising · Contrastive Learning · Paired/Unpaired GANs</p>
       </div>
     </div>
   </section>
