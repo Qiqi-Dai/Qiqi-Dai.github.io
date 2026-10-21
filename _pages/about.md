@@ -30,7 +30,7 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
       <div class="work-experience__date"><time datetime="2025-07">2025.07</time> – Present</div>
       <div class="work-experience__topics">
         <p>LLM inference acceleration · Speculative decoding · MoE optimization · Software–hardware co-design</p>
-        <p>Efficient autonomous driving perception · Model distillation · Hardware-friendly feature sampling</p>
+        <p>Efficient autonomous driving perception · Knowledge distillation · Hardware-friendly feature sampling</p>
       </div>
     </div>
   </section>
