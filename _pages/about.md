@@ -17,7 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Since July 2025, I have been a Research Scientist (Architect, AI Computing) at Black Sesame Technologies (Singapore) Pte Ltd. From July 2023 to July 2025, I worked as a postdoctoral research fellow at the Departmnet of Electrical and Computer Engineering (ECE) in National University of Singapore (NUS). Prior to that, I received the PhD degree from Nanyang Technological University (NTU) in 2023, Master's Degree from NUS in 2019, and Bachelor's Degree from Soochow University in 2018. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Since July 2025, I have been a Research Scientist in AI Computing at Black Sesame Technologies (Singapore) Pte Ltd. From July 2023 to June 2025, I worked as a postdoctoral research fellow in the Department of Electrical and Computer Engineering (ECE) at the National University of Singapore (NUS). Prior to that, I received my Ph.D. from Nanyang Technological University (NTU) in 2023, Master's degree from NUS in 2019, and Bachelor's degree from Soochow University in 2018. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+<span class='anchor' id='work-experience'></span>
+
+# 💼 Work Experience
+
+**Research Scientist - AI Computing, Black Sesame Technologies (Singapore) Pte Ltd, Singapore**<br>
+*2025.07 - Present*
+
+- Research on LLM inference acceleration, including speculative decoding, MoE inference optimization, and software–hardware co-design.
+- Develop hardware-friendly deep learning solutions for autonomous driving perception, including model distillation and efficient feature sampling.
+
+**Research Fellow, ECE, National University of Singapore (NUS), Singapore**<br>
+*2023.07 - 2025.06*
+
+- Conducted research on deep generative models for intelligent metasurface design
+- Developed an active learning-augmented diffusion model for metasurface generation from limited training data
 
 # 🏫 Education
 
@@ -26,8 +42,13 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
 - *2014.09 - 2018.06*, B.Eng. in Communication Engineering, Soochow University, Suzhou, China.
 
 # 📝 Publication
+
+**2026**
+- J. Qian, Y. H. Lee, K. Cheng, **Q. Dai**, A. Yalcinkaya, M. L. M. Yusof, J. Wang, and A. C. Yucel, "A Migration-Assisted Deep Learning Scheme for Imaging Defects Inside Cylindrical Structures via GPR: A Case Study for Tree Trunks," IEEE Transactions on Geoscience and Remote Sensing, vol. 64, 2026. [DOI](https://doi.org/10.1109/TGRS.2026.3662368) · [Code](https://github.com/jwqian54/Migration-Assisted-DL)
+- **Q. Dai**, Y. Wang, C. Xu, D. Li, P. Pitchappa, T. C. Tan, R. Singh, and C. Lee, "High-Asymmetry Metasurface: A New Solution for Terahertz Resonance via Active Learning-Augmented Diffusion Model," Advanced Science, vol. 13, no. 2, e08610, 2026. [DOI](https://doi.org/10.1002/advs.202508610) · [Code](https://github.com/Qiqi-Dai/High-Asymmetry-Metasurface)
+- Y. Wang, **Q. Dai**, C. Xu, D. Li, Z. Ren, L. Wang, N. Liu, C. P. Ho, P. Pitchappa, and C. Lee, "Machine Learning Enabled MEMS Reconfigurable Intelligent Surface for Terahertz Beam Steering and Wireless Communication," in Proc. 2026 IEEE 39th International Conference on Micro Electro Mechanical Systems (MEMS), Salzburg, Austria, pp. 1460-1463, 2026. [DOI](https://doi.org/10.1109/MEMS64181.2026.11419515)
+
 **2025**
-- **Q. Dai**, Y. Wang, C. Xu, D. Li, P. Pitchappa, T. C. Tan, R. Singh, and C. Lee, "High-Asymmetry Metasurface: A New Solution for Terahertz Resonance via Active Learning-Augmented Diffusion Model," Advanced Science, 2025.
 - X. Jia, M. Wang, **Q. Dai**, C. F. Wang, and A. C. Yucel, "Deep Learning-Based Partial Inductance Extraction of 3-D Interconnects," IEEE Journal on Multiscale and Multiphysics Computational Techniques, vol. 10, pp. 112-124, 2025.
 
 **2024**
