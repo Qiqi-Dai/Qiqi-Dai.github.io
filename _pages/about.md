@@ -64,38 +64,38 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
 **2026**
 - J. Qian, Y. H. Lee, K. Cheng, **Q. Dai**, A. Yalcinkaya, M. L. M. Yusof, J. Wang, and A. C. Yucel, "A Migration-Assisted Deep Learning Scheme for Imaging Defects Inside Cylindrical Structures via GPR: A Case Study for Tree Trunks," IEEE Transactions on Geoscience and Remote Sensing, vol. 64, 2026. [DOI](https://doi.org/10.1109/TGRS.2026.3662368) · [Code](https://github.com/jwqian54/Migration-Assisted-DL)
 - **Q. Dai**, Y. Wang, C. Xu, D. Li, P. Pitchappa, T. C. Tan, R. Singh, and C. Lee, "High-Asymmetry Metasurface: A New Solution for Terahertz Resonance via Active Learning-Augmented Diffusion Model," Advanced Science, vol. 13, no. 2, e08610, 2026. [DOI](https://doi.org/10.1002/advs.202508610) · [Code](https://github.com/Qiqi-Dai/High-Asymmetry-Metasurface)
-- Y. Wang, **Q. Dai**, C. Xu, D. Li, Z. Ren, L. Wang, N. Liu, C. P. Ho, P. Pitchappa, and C. Lee, "Machine Learning Enabled MEMS Reconfigurable Intelligent Surface for Terahertz Beam Steering and Wireless Communication," in Proc. 2026 IEEE 39th International Conference on Micro Electro Mechanical Systems (MEMS), Salzburg, Austria, pp. 1460-1463, 2026. [DOI](https://doi.org/10.1109/MEMS64181.2026.11419515)
+- Y. Wang, **Q. Dai**, C. Xu, D. Li, Z. Ren, L. Wang, N. Liu, C. P. Ho, P. Pitchappa, and C. Lee, "Machine Learning Enabled MEMS Reconfigurable Intelligent Surface for Terahertz Beam Steering and Wireless Communication," in Proc. 2026 IEEE 39th International Conference on Micro Electro Mechanical Systems (MEMS), Salzburg, Austria, pp. 1460-1463, 2026.
 
 **2025**
 - X. Jia, M. Wang, **Q. Dai**, C. F. Wang, and A. C. Yucel, "Deep Learning-Based Partial Inductance Extraction of 3-D Interconnects," IEEE Journal on Multiscale and Multiphysics Computational Techniques, vol. 10, pp. 112-124, 2025. [DOI](https://doi.org/10.1109/JMMCT.2025.3528484)
 
 **2024**
-- **Q. Dai**, Y. Wang, C. Xu, D. Li, Z. Ren, C. Lee, “Deep generative model-assisted terahertz metamaterial design for beam steering”, The 1st International Conference on AI Sensors & The 10th International Symposium on Sensor Science, Singapore, 2024. [Conference](https://sciforum.net/aisi3s2024)
-- Y. Wang, **Q. Dai**, C. Xu, Z. Ren, D. Li, C. Lee, “THz MEMS based multifunctional reconfigurable intelligent surfaces,” The 1st International Conference on AI Sensors & The 10th International Symposium on Sensor Science, Singapore, 2024. [Conference](https://sciforum.net/aisi3s2024)
+- **Q. Dai**, Y. Wang, C. Xu, D. Li, Z. Ren, C. Lee, “Deep generative model-assisted terahertz metamaterial design for beam steering”, The 1st International Conference on AI Sensors & The 10th International Symposium on Sensor Science, Singapore, 2024.
+- Y. Wang, **Q. Dai**, C. Xu, Z. Ren, D. Li, C. Lee, “THz MEMS based multifunctional reconfigurable intelligent surfaces,” The 1st International Conference on AI Sensors & The 10th International Symposium on Sensor Science, Singapore, 2024.
 - **Q. Dai**, Y. H. Lee, H.-H. Sun, J. Qian, M. L. M. Yusof, D. Lee, and A. C. Yucel, “Learning from Clutter: An Unsupervised Learning-Based Clutter Removal Scheme for GPR B-Scans,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 19668-19681, 2024. [DOI](https://doi.org/10.1109/JSTARS.2024.3486535) · [Code](https://github.com/Qiqi-Dai/ULCR-Net)
 - J. Qian, Y. H. Lee, K. Cheng, **Q. Dai**, M. L. M. Yusof, D. Lee, and A. C. Yucel, "A Deep Learning-Augmented Stand-Off Radar Scheme for Rapidly Detecting Tree Defects," IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-15, 2024. [DOI](https://doi.org/10.1109/TGRS.2024.3412286)
 
 **2023**
-- **Q. Dai**, Y. H. Lee, M. L. M. Yusof, D. Lee, and A. C. Yucel, “Learning from noise: An unsupervised GPR data denoising scheme based on generative adversarial networks,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Portland, OR, 2023. [Paper](https://personal.ntu.edu.sg/acyucel/conf_papers_abs/C84.pdf)
-- **Q. Dai**, Y. H. Lee, J. Qian, M. L. M. Yusof, D. Lee, and A. C. Yucel, "A signal processing algorithms-assisted deep learning scheme for ground-penetrating radar imaging," in Proc CNC-USNC/URSI National Radio Sci. Meet., Portland, OR, 2023. [Paper](https://personal.ntu.edu.sg/acyucel/conf_papers_abs/C83.pdf)
+- **Q. Dai**, Y. H. Lee, M. L. M. Yusof, D. Lee, and A. C. Yucel, “Learning from noise: An unsupervised GPR data denoising scheme based on generative adversarial networks,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Portland, OR, 2023.
+- **Q. Dai**, Y. H. Lee, J. Qian, M. L. M. Yusof, D. Lee, and A. C. Yucel, "A signal processing algorithms-assisted deep learning scheme for ground-penetrating radar imaging," in Proc CNC-USNC/URSI National Radio Sci. Meet., Portland, OR, 2023.
 - **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “3DInvNet: A deep learning scheme for 3D ground-penetrating radar data inversion,” IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023. [DOI](https://doi.org/10.1109/TGRS.2023.3275306) · [Code](https://github.com/Qiqi-Dai/3DInvNet)
 
 **2022**
 - **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “DMRF-UNet: A two-stage deep learning scheme for GPR data inversion under heterogeneous soil conditions,” IEEE Transactions on Antennas and Propagation, vol. 70, no. 8, pp. 6313-6328, 2022. [DOI](https://doi.org/10.1109/TAP.2022.3176386) · [Code](https://github.com/Qiqi-Dai/DMRF-UNet)
 - **Q. Dai**, Y. H. Lee, H.-H. Sun, J. Qian, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A deep learning-based GPR forward solver for predicting B-scans of subsurface objects,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022. [DOI](https://doi.org/10.1109/LGRS.2022.3192003) · [Code](https://github.com/Qiqi-Dai/GPRForwardSolver)
 - H.-H. Sun, Y. H. Lee, **Q. Dai**, C. Li, G. Ow, M. L. M. Yusof, and A. C. Yucel, “Estimating parameters of the tree root in heterogeneous soil environments via mask-guided multi-polarimetric integration neural network,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, 2022. [DOI](https://doi.org/10.1109/TGRS.2021.3138974) · [Code](https://haihan-sun.github.io/GPR.html)
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “S2M-Net: A deep learning-based scheme for GPR image translation from simulation to measurement via a conditional generative adversarial network,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Denver, Colorado, USA, 2022. [Paper](https://personal.ntu.edu.sg/acyucel/conf_papers_abs/C73.pdf)
-- J. Qian, Y. H. Lee, **Q. Dai**, K. Cheng, L. He, D. Lee, and A. C. Yucel, “Rapid health assessment of trees via deep learning-augmented radar,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Denver, Colorado, USA, 2022. [Paper](https://personal.ntu.edu.sg/acyucel/conf_papers_abs/C72.pdf)
+- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “S2M-Net: A deep learning-based scheme for GPR image translation from simulation to measurement via a conditional generative adversarial network,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Denver, Colorado, USA, 2022.
+- J. Qian, Y. H. Lee, **Q. Dai**, K. Cheng, L. He, D. Lee, and A. C. Yucel, “Rapid health assessment of trees via deep learning-augmented radar,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Denver, Colorado, USA, 2022.
 
 **2021**
 
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A deep learning scheme for rapidly reconstructing 3D permittivity maps from GPR C-scans,” in Proc IEEE Int. Symp. Antennas Propagat., Singapore, 2021. [DOI](https://doi.org/10.1109/APS/URSI47566.2021.9703958)
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A two-stage deep neural network for ground-penetrating radar data inversion under heterogeneous soil conditions,” in Proc CNC-USNC/URSI National Radio Sci. Meet, Singapore, 2021. [Paper](https://personal.ntu.edu.sg/acyucel/conf_papers_abs/C66.pdf)
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A fast 2D GPR forward solver for convex objects based on a deep learning technique,” in Proc CNC-USNC/URSI National Radio Sci. Meet, Singapore, 2021. [Paper](https://personal.ntu.edu.sg/acyucel/conf_papers_abs/C62.pdf)
+- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A deep learning scheme for rapidly reconstructing 3D permittivity maps from GPR C-scans,” in Proc IEEE Int. Symp. Antennas Propagat., Singapore, 2021.
+- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A two-stage deep neural network for ground-penetrating radar data inversion under heterogeneous soil conditions,” in Proc CNC-USNC/URSI National Radio Sci. Meet, Singapore, 2021.
+- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A fast 2D GPR forward solver for convex objects based on a deep learning technique,” in Proc CNC-USNC/URSI National Radio Sci. Meet, Singapore, 2021.
 
 **2020**
 
-- **Q. Dai**, B. Wen, G. Ow, M. L. M. Yusof, Y. H. Lee, and A. C. Yucel, “A deep learning-based methodology for rapidly detecting the defects inside tree trunks via GPR,” in Proc IEEE Int. Symp. Antennas Propagat., Montreal, Canada, 2020. [DOI](https://doi.org/10.23919/USNC/URSI49741.2020.9321692)
+- **Q. Dai**, B. Wen, G. Ow, M. L. M. Yusof, Y. H. Lee, and A. C. Yucel, “A deep learning-based methodology for rapidly detecting the defects inside tree trunks via GPR,” in Proc IEEE Int. Symp. Antennas Propagat., Montreal, Canada, 2020.
 
 **2019**
 
