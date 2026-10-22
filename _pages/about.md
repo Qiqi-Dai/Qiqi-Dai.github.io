@@ -29,7 +29,7 @@ Since July 2025, I have been a Research Scientist (Architect, AI Computing) at B
     <div class="work-experience__details">
       <div class="work-experience__date"><time datetime="2025-07">2025.07</time> – Present</div>
       <div class="work-experience__topics">
-        <p>LLM Inference · Speculative Decoding · MoE Optimization · NPU Deployment · Hardware–Software Co-design</p>
+        <p>LLM Inference · Speculative Decoding · MoE Optimization · NPU-Oriented Deployment · Efficient Vision Models · Hardware–Software Co-design</p>
       </div>
     </div>
   </section>
