@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My work spans efficient LLM inference, generative models, and computational imaging. I am currently a Research Scientist at Black Sesame Technologies (Singapore) Pte Ltd, focusing on develop acceleration solutions for LLM inference and vision models. Previously, I was a Postdoctoral Research Fellow at the National University of Singapore (NUS), where I developed physics-constrained active learning and diffusion models for scientific design. I received my Ph.D. from Nanyang Technological University (NTU) in 2023, with research on deep learning techiniques for 2D/3D radar imaging. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My work spans efficient LLM inference, generative models, and computational imaging. I am currently a Research Scientist at Black Sesame Technologies (Singapore) Pte Ltd, developing NPU-oriented acceleration solutions for LLM inference and vision models. Previously, I was a Postdoctoral Research Fellow at the National University of Singapore (NUS), where I developed physics-constrained active learning and diffusion models for scientific design. I received my Ph.D. from Nanyang Technological University (NTU) in 2023, with research on deep learning techiniques for 2D/3D radar imaging. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <span class='anchor' id='work-experience'></span>
 
@@ -107,22 +107,8 @@ My work spans efficient LLM inference, generative models, and computational imag
 
 # 🎖 Award & Service
 
-**Awards**
-
 - **2023** — IEEE AP-S C. J. Reddy Travel Grant
 - **2022** — IEEE Antennas and Propagation Society (AP-S) Fellowship
 - **2018** — Outstanding Graduate, Soochow University
-
-**Conference Service**
-
 - **Session Chair**, “Localization and Estimation Techniques in Sensing and Communications,” 2023 IEEE AP-S/URSI Conference
-
-**Journal Reviewer**
-
-- IEEE Transactions on Geoscience and Remote Sensing
-- IEEE Geoscience and Remote Sensing Letters
-- IEEE Antennas and Wireless Propagation Letters
-- Light: Science & Applications
-- Remote Sensing
-- Measurement
-- Sensors
+- **Journal Reviewer:** IEEE Transactions on Geoscience and Remote Sensing; IEEE Geoscience and Remote Sensing Letters; IEEE Antennas and Wireless Propagation Letters; Light: Science & Applications; Remote Sensing; Measurement; Sensors
