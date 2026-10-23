@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My work spans efficient LLM inference, generative models, and computational imaging. I am currently a Research Scientist at Black Sesame Technologies (Singapore) Pte Ltd, developing NPU-oriented acceleration solutions for LLM inference and vision models. Previously, I was a Postdoctoral Research Fellow at the National University of Singapore (NUS), where I developed physics-constrained active learning and diffusion models for scientific design. I received my Ph.D. from Nanyang Technological University (NTU) in 2023, with research on deep learning techiniques for 2D/3D radar imaging. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am currently a Research Scientist at Black Sesame Technologies (Singapore) Pte Ltd, developing NPU-oriented acceleration solutions for LLM inference and vision models. Previously, I was a Postdoctoral Research Fellow at the National University of Singapore (NUS), where I developed physics-constrained active learning and diffusion models for scientific design. I received my Ph.D. from Nanyang Technological University (NTU) in 2023, with research on deep learning techiniques for 2D/3D radar imaging. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <span class='anchor' id='work-experience'></span>
 
@@ -29,7 +29,12 @@ My work spans efficient LLM inference, generative models, and computational imag
     <div class="work-experience__details">
       <div class="work-experience__date"><time datetime="2025-07">2025.07</time> – Present</div>
       <div class="work-experience__topics">
-        <p>LLM Inference · Speculative Decoding · MoE Optimization · NPU-Oriented Deployment · Efficient Vision Models · Hardware–Software Co-design</p>
+        <h4 class="work-experience__subtitle">Efficient LLM Inference &amp; Hardware-Aware Vision</h4>
+        <ul class="work-experience__description">
+          <li><strong>LLM inference optimization:</strong> Investigate speculative decoding, token-tree selection, KV-cache overhead, and MoE expert caching/prefetching. Build reproducible benchmarks and analyze end-to-end latency, throughput, and inference correctness with vLLM and GPU profiling tools.</li>
+          <li><strong>Efficient vision models:</strong> Apply foundation-model knowledge distillation to multi-camera BEV perception, transferring DINOv3 representations to compact backbones for improved detection accuracy.</li>
+          <li><strong>Hardware–software co-design:</strong> Develop NPU-oriented sampling and training methods, adapt CUDA operators, and evaluate ONNX/TensorRT deployment and lower-precision inference on desktop and embedded GPUs.</li>
+        </ul>
       </div>
     </div>
   </section>
@@ -38,7 +43,12 @@ My work spans efficient LLM inference, generative models, and computational imag
     <div class="work-experience__details">
       <div class="work-experience__date"><time datetime="2023-07">2023.07</time> – <time datetime="2025-06">2025.06</time></div>
       <div class="work-experience__topics">
-        <p>Generative AI · Diffusion Models · Active Learning · Inverse Design · Scientific Machine Learning · Physics-Informed Generation</p>
+        <h4 class="work-experience__subtitle">Generative AI for Scientific Design</h4>
+        <ul class="work-experience__description">
+          <li><strong>Diffusion-based inverse design:</strong> Develop generative models for terahertz metasurface structures, using physics-constrained active learning to select promising designs and iteratively expand a small initial dataset.</li>
+          <li><strong>Automated scientific workflows:</strong> Connect PyTorch training, candidate generation, electromagnetic simulation, and physical-metric evaluation through Python/MATLAB orchestration with FDTD.</li>
+          <li><strong>Physical validation:</strong> Evaluate generated structures through simulation and fabricated-device measurements. Publish the methodology in Advanced Science and release implementation code.</li>
+        </ul>
       </div>
     </div>
   </section>
@@ -47,27 +57,16 @@ My work spans efficient LLM inference, generative models, and computational imag
     <div class="work-experience__details">
       <div class="work-experience__date"><time datetime="2019-08">2019.08</time> – <time datetime="2023-06">2023.06</time></div>
       <div class="work-experience__topics">
-        <p>Deep Learning · Radar Imaging · 2D/3D Image Reconstruction · Image Generation · Image Denoising · Contrastive Learning · Paired/Unpaired GANs · Neural Surrogate Modeling</p>
+        <h4 class="work-experience__subtitle">Deep Learning for Radar Imaging</h4>
+        <ul class="work-experience__description">
+          <li><strong>2D/3D reconstruction:</strong> Develop DMRF-UNet and 3DInvNet for clutter suppression and subsurface material-property reconstruction. Evaluate robustness to unseen objects, soil conditions, noise, and measured radar data.</li>
+          <li><strong>Image generation and restoration:</strong> Explore paired/unpaired GANs, contrastive learning, and image translation for radar-image synthesis, denoising, and clutter removal.</li>
+          <li><strong>Neural simulation surrogates:</strong> Build neural forward models that synthesize radar B-scans from material-property maps, accelerating electromagnetic simulation and adapting to new scenarios through transfer learning.</li>
+        </ul>
       </div>
     </div>
   </section>
 </div>
-
-<span class='anchor' id='skills'></span>
-
-# 🛠 Skills
-
-**LLM Inference & Optimization**<br>
-vLLM · Speculative Decoding · KV Cache · MoE Expert Caching & Prefetching · LoRA Fine-Tuning
-
-**Generative AI & Computer Vision**<br>
-Diffusion Models · Paired/Unpaired GANs · Contrastive Learning · Knowledge Distillation · Image Restoration · 2D/3D Reconstruction · Multi-Camera BEV Perception
-
-**Scientific Machine Learning**<br>
-Physics-Constrained Active Learning · Inverse Design · Neural Simulation Surrogates · Electromagnetic Simulation
-
-**Programming & Deployment**<br>
-Python · PyTorch · MATLAB · TensorFlow/Keras · CUDA/C++ Operator Adaptation · ONNX · TensorRT · Docker · Nsight Systems/Compute
 
 # 🏫 Education
 

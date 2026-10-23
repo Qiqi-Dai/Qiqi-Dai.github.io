@@ -411,7 +411,7 @@
   text-transform: uppercase;
 }
 
-/* Work experience: dates followed by research topics. */
+/* Work experience: dates alongside a research subtitle and detailed contributions. */
 .work-experience {
   &__entry {
     margin: 0 0 1.5em;
@@ -431,7 +431,7 @@
   }
 
   &__date {
-    padding-top: 0.1em;
+    padding-top: 0.15em;
     color: $gray;
     font-size: 0.9em;
     white-space: nowrap;
@@ -449,6 +449,26 @@
 
     p + p {
       margin-top: 0.3em;
+    }
+  }
+
+  &__subtitle {
+    margin: 0 0 0.55em;
+    font-size: 1em;
+    line-height: 1.55;
+    font-weight: 600;
+  }
+
+  &__description {
+    margin: 0;
+    padding-left: 1.2em;
+
+    li {
+      margin: 0 0 0.55em;
+    }
+
+    li:last-child {
+      margin-bottom: 0;
     }
   }
 
