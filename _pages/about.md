@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am currently a Research Scientist at Black Sesame Technologies (Singapore) Pte Ltd, developing NPU-oriented acceleration solutions for LLM inference and vision models. Previously, I was a Postdoctoral Research Fellow at the National University of Singapore (NUS), where I developed physics-constrained active learning and diffusion models for scientific design. I received my Ph.D. from Nanyang Technological University (NTU) in 2023, with research on deep learning techiniques for radar imaging. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am currently a Research Scientist at Black Sesame Technologies (Singapore) Pte Ltd, focusing on NPU-oriented acceleration solutions for LLM inference and vision models. Previously, I was a Postdoctoral Research Fellow at the National University of Singapore (NUS), where I developed physics-constrained active learning and diffusion models for scientific design. I received my Ph.D. from Nanyang Technological University (NTU) in 2023, with research on deep learning techiniques for radar imaging. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <span class='anchor' id='work-experience'></span>
 
