@@ -53,6 +53,22 @@ My work spans efficient LLM inference, generative models, and computational imag
   </section>
 </div>
 
+<span class='anchor' id='skills'></span>
+
+# 🛠 Skills
+
+**LLM Inference & Optimization**<br>
+vLLM · Speculative Decoding · KV Cache · MoE Expert Caching & Prefetching · LoRA Fine-Tuning
+
+**Generative AI & Computer Vision**<br>
+Diffusion Models · Paired/Unpaired GANs · Contrastive Learning · Knowledge Distillation · Image Restoration · 2D/3D Reconstruction · Multi-Camera BEV Perception
+
+**Scientific Machine Learning**<br>
+Physics-Constrained Active Learning · Inverse Design · Neural Simulation Surrogates · Electromagnetic Simulation
+
+**Programming & Deployment**<br>
+Python · PyTorch · MATLAB · TensorFlow/Keras · CUDA/C++ Operator Adaptation · ONNX · TensorRT · Docker · Nsight Systems/Compute
+
 # 🏫 Education
 
 - *2019.08 - 2023.06*, Ph.D. in Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
