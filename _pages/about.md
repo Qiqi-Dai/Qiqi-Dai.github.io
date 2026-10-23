@@ -32,11 +32,6 @@ I am currently a Research Scientist at Black Sesame Technologies (Singapore) Pte
       <div class="work-experience__date"><time datetime="2025-07">2025.07</time> – Present</div>
       <div class="work-experience__topics">
         <h4 class="work-experience__subtitle">Efficient LLM Inference &amp; Hardware-Aware Vision</h4>
-        <ul class="work-experience__description">
-          <li><strong>LLM inference optimization:</strong> Investigate speculative decoding, token-tree selection, KV-cache overhead, and MoE expert caching/prefetching. Build reproducible benchmarks and analyze end-to-end latency, throughput, and inference correctness with vLLM and GPU profiling tools.</li>
-          <li><strong>Efficient vision models:</strong> Apply foundation-model knowledge distillation to multi-camera BEV perception, transferring DINOv3 representations to compact backbones for improved detection accuracy.</li>
-          <li><strong>Hardware–software co-design:</strong> Develop NPU-oriented sampling and training methods, adapt CUDA operators, and evaluate ONNX/TensorRT deployment and lower-precision inference on desktop and embedded GPUs.</li>
-        </ul>
       </div>
     </div>
   </section>
@@ -46,11 +41,6 @@ I am currently a Research Scientist at Black Sesame Technologies (Singapore) Pte
       <div class="work-experience__date"><time datetime="2023-07">2023.07</time> – <time datetime="2025-06">2025.06</time></div>
       <div class="work-experience__topics">
         <h4 class="work-experience__subtitle">Generative AI for Scientific Design</h4>
-        <ul class="work-experience__description">
-          <li><strong>Diffusion-based inverse design:</strong> Develop generative models for terahertz metasurface structures, using physics-constrained active learning to select promising designs and iteratively expand a small initial dataset.</li>
-          <li><strong>Automated scientific workflows:</strong> Connect PyTorch training, candidate generation, electromagnetic simulation, and physical-metric evaluation through Python/MATLAB orchestration with FDTD.</li>
-          <li><strong>Physical validation:</strong> Evaluate generated structures through simulation and fabricated-device measurements. Publish the methodology in Advanced Science and release implementation code.</li>
-        </ul>
       </div>
     </div>
   </section>
@@ -60,11 +50,6 @@ I am currently a Research Scientist at Black Sesame Technologies (Singapore) Pte
       <div class="work-experience__date"><time datetime="2019-08">2019.08</time> – <time datetime="2023-06">2023.06</time></div>
       <div class="work-experience__topics">
         <h4 class="work-experience__subtitle">Deep Learning for Radar Imaging</h4>
-        <ul class="work-experience__description">
-          <li><strong>2D/3D reconstruction:</strong> Develop DMRF-UNet and 3DInvNet for clutter suppression and subsurface material-property reconstruction. Evaluate robustness to unseen objects, soil conditions, noise, and measured radar data.</li>
-          <li><strong>Image generation and restoration:</strong> Explore paired/unpaired GANs, contrastive learning, and image translation for radar-image synthesis, denoising, and clutter removal.</li>
-          <li><strong>Neural simulation surrogates:</strong> Build neural forward models that synthesize radar B-scans from material-property maps, accelerating electromagnetic simulation and adapting to new scenarios through transfer learning.</li>
-        </ul>
       </div>
     </div>
   </section>
